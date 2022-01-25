@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4874034793894692537
+  m_GuidHigh: 5234532889082637993
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5413655502063726975
+      m_GuidHigh: 637502786763230623
+    m_SerializedTextureGuid:
+      m_GuidLow: 8661550393350473372
+      m_GuidHigh: 9011008368678602202
+    m_Size: {x: 0.1, y: 0.14}
+    m_SpecifySize: 1
+    m_Name: PATRICK
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4731042183710117131
+      m_GuidHigh: 4448743008921812884
+    m_SerializedTextureGuid:
+      m_GuidLow: 9517465684113102302
+      m_GuidHigh: 13245010732945576267
+    m_Size: {x: 0.1, y: 0.14}
+    m_SpecifySize: 1
+    m_Name: WAYNE
+    m_Texture: {fileID: 0}
